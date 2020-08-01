@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-GIF: https://recordit.co/OMKtYvvbOj
+GIF: http://g.recordit.co/OMKtYvvbOj.gif
 
 ## Notes
 
